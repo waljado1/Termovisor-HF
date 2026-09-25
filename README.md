@@ -1,6 +1,6 @@
 ﻿---
 title: Termovisor
-emoji: fire
+emoji: 🔥
 colorFrom: red
 colorTo: yellow
 sdk: docker
