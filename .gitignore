@@ -1,0 +1,9 @@
+venv312/
+venv_termico/
+__pycache__/
+*.pyc
+uploads/
+resultados_procesamiento/
+exiftool.exe
+exiftool_files/
+.vscode/
